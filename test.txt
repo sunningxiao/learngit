@@ -1,1 +1,0 @@
-Test the delete operation.
